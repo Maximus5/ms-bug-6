@@ -1,0 +1,6 @@
+*.exe
+Debug
+Release
+*.user
+.vs
+*.aps
